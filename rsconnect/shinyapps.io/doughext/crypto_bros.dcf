@@ -1,0 +1,11 @@
+name: crypto_bros
+title: crypto_bros
+username:
+account: doughext
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5776451
+bundleId:
+url: https://doughext.shinyapps.io/crypto_bros/
+when: 1646345361.63473
+lastSyncTime: 1646345361.63473

@@ -1,0 +1,13 @@
+name: stock_exploration
+title: stock_exploration
+username:
+account: doughext
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5819968
+bundleId: 5711087
+url: https://doughext.shinyapps.io/stock_exploration/
+when: 1647908260.27464
+lastSyncTime: 1647908260.27464
+asMultiple: FALSE
+asStatic: FALSE
